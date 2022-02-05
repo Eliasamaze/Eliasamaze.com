@@ -1,0 +1,21 @@
+/********MEDIA QUERRY**************/
+
+@media screen and (max-width: 600px) {
+  .main-nav li, .main-header{
+  		float: none;
+  		text-align: center;
+ 	 }
+ .main-header{
+ 	margin: 0;
+ 	width: initial;
+ }
+
+ .main-nav {
+ 	margin: 0;
+ }
+
+.main-wrapper{
+	display: initial;
+}
+
+}
