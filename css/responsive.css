@@ -14,8 +14,12 @@
  	margin: 0;
  }
 
-.main-wrapper{
+.main-wrapper, .first-content, .second-content {
 	display: initial;
+	text-align: center;
+	width: 100%;
+	margin: 5px;
+	flex: none;
 }
 
 }
